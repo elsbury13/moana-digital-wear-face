@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">20dp</dimen>
+    <dimen name="digital_y_offset">75dp</dimen>
+
+    <dimen name="digital_text_size_cal">10dp</dimen>
+    <dimen name="digital_text_size_round_cal">17dp</dimen>
+    <dimen name="digital_x_offset_cal">75dp</dimen>
+    <dimen name="digital_x_offset_round_cal">103dp</dimen>
+    <dimen name="digital_y_offset_cal">90dp</dimen>
+</resources>
